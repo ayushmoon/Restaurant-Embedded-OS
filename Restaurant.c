@@ -49,12 +49,11 @@ int Bill()
         printf("Enter each Items Price one by one:");
         scanf("%d%d%d%d%d%d%d%d%d%d",&a,&b,&c,&d,&e,&f,&g,&h,&i,&j);
         
-        
+
         int total;
         total=a+b+c+d+e+f+g+h+i+j;
         printf("Final Bill is ₹%d\n",total);
         
     return Bill;
-    printf("ayush moon");
         
  }
