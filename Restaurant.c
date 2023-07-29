@@ -55,6 +55,5 @@ int Bill()
         printf("Final Bill is ₹%d\n",total);
         
     return Bill;
-    printf("ayush moon");
         
  }
